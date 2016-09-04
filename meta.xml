@@ -1,0 +1,16 @@
+<meta>
+    <info name="HIT AND RUN" type="gamemode" author="GTX, janiko9 and ero5074" version="1.1.4" description="Hit and Run game mode"></info>
+	<script type="client" src="core_client.lua"></script>   
+	<script src="core_server.lua"></script>
+	
+    <script type="client" src="nametags_client.lua"></script>
+	
+	<script src="stats_server.lua"></script>
+	
+	<script src="pickups_server.lua"></script>
+	<script type="client" src="pickups_client.lua"></script>
+	
+	<file src="files/sounds/whistle.mp3"></file>
+	<file src="files/models/nitro.txd"></file>
+	<file src="files/models/nitro.dff"></file>
+</meta>
